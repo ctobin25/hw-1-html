@@ -18,11 +18,9 @@ body {
 .header h1 {
     display: inline-block;
     font-size: 48px;
-}
-
-.header h1 .seo {
     color: #d9dcd6;
 }
+
 
 .header nav {
     padding-top: 15px;
@@ -41,14 +39,6 @@ body {
     margin-left: 25px;
 }
 
-a {
-    color: #ffffff;
-    text-decoration: none;
-}
-
-p {
-    font-size: 16px;
-}
 
 .hero {
     height: 800px;
@@ -58,6 +48,13 @@ p {
     background-size: cover;
     background-position: center;
 }
+
+p {
+    color: #ffffff;
+    text-decoration: none;
+    font-size: 20px;
+}
+
 
 .float-left {
     float: left;
@@ -195,6 +192,6 @@ p {
     text-align: center;
 }
 
-.footer h2 {
+.footer h4 {
     font-size: 20px;
 }
